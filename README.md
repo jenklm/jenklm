@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=jenklm&show_icons=true&hide_border=true)](https://github.com/jenklm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenklm&layout=compact)](https://github.com/jenklm)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jenklm)](https://velog.io/@jenklm/posts)
+
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
