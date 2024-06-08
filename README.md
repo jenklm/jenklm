@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HeewonKIM&animation=twinkling&fontSize=60)
+![](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=300&section=header&text=HeewonKIM&animation=twinkling&fontSize=60)
 
 ### 👩🏻‍💻Major in Digital Media at Seoul Women's University
 ### 👩🏻‍💻I'm interesting at UXUI Design, Frontend
