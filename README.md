@@ -8,6 +8,7 @@
 <br>
 <br>
 
+<a href="https://jen-klm.notion.site/0ff23595fd1c4411b7f9500df732a6bb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@jenklm/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenklm)](https://hits.seeyoufarm.com)
 
