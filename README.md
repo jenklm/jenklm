@@ -1,4 +1,14 @@
-## Hello! Welcome to my GitHub! I'm Hee. 👋
+<div align="center">
+  
+![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HeewonKIM&animation=twinkling&fontSize=60)
+
+### 👩🏻‍💻Major in Digital Media at Seoul Women's university
+### 👩🏻‍💻I'm interesting at UXUI Design, Frontend
+
+<br>
+<br>
+
+<a href="https://velog.io/@jenklm/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenklm)](https://hits.seeyoufarm.com)
 
 <!--
@@ -29,3 +39,5 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="6.7%" /></a>
+
+</div>
