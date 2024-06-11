@@ -8,6 +8,9 @@
 <br>
 <br>
 
+*click Notion to visit my portfolio page (2024 T2 ver.)
+<br>
+
 <a href="https://jen-klm.notion.site/0ff23595fd1c4411b7f9500df732a6bb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@jenklm/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenklm)](https://hits.seeyoufarm.com)
@@ -27,12 +30,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jenklm&show_icons=true&hide_border=true)](https://github.com/jenklm)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=jenklm&show_icons=true&hide_border=true)](https://github.com/jenklm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jenklm)](https://velog.io/@jenklm/posts) -->
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenklm&layout=compact)](https://github.com/jenklm)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jenklm)](https://velog.io/@jenklm/posts)
+<br>
 
 
+
+<!--
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
@@ -40,5 +48,5 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="6.7%" /></a>
-
+-->
 </div>
